@@ -31,3 +31,4 @@ async function getMovieData(movieName) {
 // }
 
 // displayMovieData('Blade Runner');
+export default getMovieData
